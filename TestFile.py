@@ -1,4 +1,4 @@
-Hello, World!
-This, is, our, new, text, file., 
-and, this, is, another, line., 
-Why?, Because, we, can., 
+1, 30, 4, 
+2, 75, 
+1, 20, -5, 
+3, 1, 
